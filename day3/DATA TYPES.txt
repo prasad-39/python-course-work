@@ -1,0 +1,56 @@
+DATA TYPES 
+
+1.numerical data types 
+ 1.int
+ 2.float
+ 3.complex
+
+2.sequence data types
+ 4.string
+ 5.list
+ 6.tuple
+
+3.mapping
+ 7.set 
+ 8.dictionary 
+ 9.frozen set
+10.none
+
+STRING
+------- 
+ collection of characters enclosed in a sigle or double quotes 
+ it is a immutable
+ 
+LIST
+-----
+  Collection of elements enclosed in a square braces 
+  list is mutable 
+  list can allow duplicate elements 
+  list is dynamically sized 
+  it is ordered 
+  list is a heterogeneous 
+TUPLE
+-----
+  a tuple is a collection of elements enclosed in a paranthesis
+  tuple is immutable
+  tuple allows duplicate elements 
+  tuple is ordered 
+  tuple is heterogeneous
+  tuple is in fixed in size
+SET
+----
+  a set is a collection of unique elements enclosed in a curly braces
+  set is unordered
+  set is heterogeneous 
+  set is mutable 
+DICTIONARY
+---------- 
+  A dictionary is a collection of key value pair enclosed in a curly braces
+  it is mutable 
+  it is a dynamically sized 
+  it doesn't allows duplicate key values 
+    
+NONE
+-----
+ it is used to declare empty variable 
+ a=none
