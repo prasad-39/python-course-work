@@ -150,6 +150,3 @@ Some commonly used punctuation symbols are:
 
 These symbols are used in different situations, such as creating lists and dictionaries, calling functions, separating values, and defining blocks of code.
 
-CONCLUSION
-
-Tokens are the basic building blocks of a Python program. Understanding identifiers, operators, literals, keywords, and punctuations makes it easier to read, write, and understand Python code.
