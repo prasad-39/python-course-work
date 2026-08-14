@@ -10,11 +10,6 @@ Type "copyright", "credits" or "license()" for more information.
 >>> d
 {1: 2, 4: 5, 8: 9, 3: 9}
 >>> del d
->>> d
-Traceback (most recent call last):
-  File "<pyshell#7>", line 1, in <module>
-    d
-NameError: name 'd' is not defined
 >>> d={}
 >>> d[1]=1
 >>> d[2,3]=3
@@ -22,8 +17,6 @@ NameError: name 'd' is not defined
 >>> d[(1,2,3,3,4)]=4
 >>> d[(3+3j)]=5
 >>> d[True]=9
->>> #In keys lists, tuples, dictionaries are allowed
->>> #In keys lists, tuples, dictionaries are not allowed
 >>> del d
 >>> d={}
 >>> d[1]=23
@@ -43,11 +36,6 @@ NameError: name 'd' is not defined
 >>> info={'name':'prasad','course':'pfs','batch':65}
 >>> info['name']
 'prasad'
->>> info['prasad']
-Traceback (most recent call last):
-  File "<pyshell#33>", line 1, in <module>
-    info['prasad']
-KeyError: 'prasad'
 >>> 'prasad' in info
 False
 >>> 'name' in info
