@@ -1,0 +1,155 @@
+PYTHON TOKENS
+
+A token is the smallest meaningful unit in a Python program. In simple words, when Python reads a program, it breaks the code into small parts called tokens.
+
+Types of Tokens
+
+There are mainly five types of tokens in Python:
+
+1. Identifier
+
+2. Operator
+
+3. Literal
+
+4. Keyword
+
+5. Punctuation
+
+6. IDENTIFIER
+
+An identifier is simply a name given to something in a program, such as a variable, function, class, or object.
+
+Rules for Identifiers
+
+1. An identifier can contain uppercase letters, lowercase letters, numbers, and underscore (_).
+2. Special characters such as @, $, %, and # are not allowed.
+3. An identifier can start with an uppercase letter, lowercase letter, or underscore.
+4. It cannot start with a number.
+5. Spaces are not allowed in an identifier.
+6. Python is case-sensitive, so Name and name are considered different.
+7. Python keywords cannot be used as identifiers.
+
+Examples:
+
+name
+student_name
+Age
+_value
+marks1
+
+2. OPERATORS
+
+Operators are symbols or words that are used to perform different operations in Python, such as addition, subtraction, comparison, and checking conditions.
+
+Types of Operators
+
+1. Arithmetic Operators
+
+Used for mathematical calculations.
+
++, -, *, /, %, //, **
+
+2. Relational / Comparison Operators
+
+Used to compare two values.
+
+==, !=, >, <, >=, <=
+
+3. Logical Operators
+
+Used when we want to combine or check multiple conditions.
+
+and, or, not
+
+4. Assignment Operators
+
+Used to assign or update values in variables.
+
+=, +=, -=, *=, /=, %=
+
+5. Bitwise Operators
+
+Used to perform operations on the binary representation of numbers.
+
+&, |, ^, ~, <<, >>
+
+6. Membership Operators
+
+Used to check whether a particular value is present in a sequence.
+
+in, not in
+
+7. Identity Operators
+
+Used to check whether two variables refer to the same object.
+
+is, is not
+
+3. LITERAL
+
+A literal is a value that we directly write in a Python program.
+
+For example, 10, 10.5, and "Hello" are all literals.
+
+Types of Literals
+
+1. Numeric Literals
+
+Used to represent numbers.
+
+Integer: 10
+Float: 10.5
+Complex: 2+3j
+
+2. String Literals
+
+Used to represent text. They are written inside single or double quotes.
+
+Examples:
+
+"Hello"
+'Python'
+
+3. Boolean Literals
+
+Used to represent either true or false.
+
+True
+False
+
+4. None Literal
+
+None is used when there is no value or when we want to represent an empty or missing value.
+
+4. KEYWORDS
+
+Keywords are reserved words in Python. They already have a specific meaning in the language, so we cannot normally use them as variable, function, or class names.
+
+Some common Python keywords are:
+
+if, else, elif, for, while, break, continue, def, class, return, import, from, try, except, True, False, None, and, or, not, in, is
+
+For example, if is a keyword used for decision-making, while for and while are used for loops.
+
+5. PUNCTUATIONS
+
+Punctuations are symbols that help us organize and separate different parts of a Python program.
+
+Some commonly used punctuation symbols are:
+
+() — Parentheses
+[] — Square brackets
+{} — Curly brackets
+: — Colon
+, — Comma
+. — Dot
+; — Semicolon
+' ' / " " — Quotes
+@ — At symbol
+
+These symbols are used in different situations, such as creating lists and dictionaries, calling functions, separating values, and defining blocks of code.
+
+CONCLUSION
+
+Tokens are the basic building blocks of a Python program. Understanding identifiers, operators, literals, keywords, and punctuations makes it easier to read, write, and understand Python code.
