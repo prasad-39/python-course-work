@@ -1,0 +1,112 @@
+PYTHON DATA TYPES
+=================
+
+Python data types can be classified into the following categories:
+
+1. NUMERIC DATA TYPES
+---------------------
+1. int
+2. float
+3. complex
+
+2. SEQUENCE DATA TYPES
+----------------------
+4. str (String)
+5. list
+6. tuple
+
+3. SET DATA TYPES
+-----------------
+7. set
+8. frozenset
+
+4. MAPPING DATA TYPE
+--------------------
+9. dict (Dictionary)
+
+5. NONE TYPE
+------------
+10. NoneType
+
+
+STRING
+======
+
+A string is a collection of characters enclosed in single quotes (' ') or double quotes (" ").
+
+- A string is immutable.
+- A string is ordered.
+- A string can contain duplicate characters.
+- A string supports indexing.
+
+
+LIST
+====
+
+A list is a collection of elements enclosed in square brackets [ ].
+
+- A list is mutable.
+- A list allows duplicate elements.
+- A list is dynamically sized.
+- A list is ordered.
+- A list can contain elements of different data types (heterogeneous).
+
+
+TUPLE
+=====
+
+A tuple is a collection of elements enclosed in parentheses ( ).
+
+- A tuple is immutable.
+- A tuple allows duplicate elements.
+- A tuple is ordered.
+- A tuple can contain elements of different data types (heterogeneous).
+- A tuple has a fixed size after creation.
+
+
+SET
+===
+
+A set is a collection of unique elements enclosed in curly braces { }.
+
+- A set does not allow duplicate elements.
+- A set is unordered.
+- A set can contain elements of different data types, provided they are hashable.
+- A set is mutable.
+- A set does not support indexing.
+
+
+DICTIONARY
+==========
+
+A dictionary is a collection of key-value pairs enclosed in curly braces { }.
+
+- A dictionary is mutable.
+- A dictionary is dynamically sized.
+- A dictionary does not allow duplicate keys.
+- Each key must be unique.
+- Values can be duplicated.
+- Dictionaries preserve insertion order in modern Python.
+
+
+FROZEN SET
+==========
+
+A frozenset is an immutable version of a set.
+
+- A frozenset is immutable.
+- A frozenset contains only unique elements.
+- A frozenset is unordered.
+- A frozenset does not support indexing.
+
+
+NONE
+====
+
+None is a special value in Python that represents the absence of a value.
+
+Example:
+
+a = None
+
+It is commonly used when a variable has no value or when a function does not explicitly return a value.
