@@ -1,5 +1,5 @@
  Introduction to Python
---------------------------
+-------------------------
 
 Python is a high-level, interpreted, general-purpose programming language known for its simplicity, readability, and versatility. It is widely used in web development, software development, automation, data science, artificial intelligence, and machine learning. Its simple syntax and extensive collection of libraries make Python suitable for both beginners and professional developers.
 
