@@ -1,4 +1,4 @@
-PYTHON TOKENS
+PYTHON TOKENS 
 
 A token is the smallest meaningful unit in a Python program. In simple words, when Python reads a program, it breaks the code into small parts called tokens.
 
