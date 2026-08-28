@@ -1,0 +1,21 @@
+Function
+---------
+A function is a block of reusable code designed to perform a specific task. 
+It can accept inputs, process them, and return an output. 
+We can call a function whenever it is required in a program.
+
+uses of the function
+--------------------
+
+1. Code Reusability – Write a piece of code once and we can use it multiple times.
+2. Reduces Code Duplication – Avoid writing the same code repeatedly.
+3. Easy Debugging – Errors can be found and fixed easily within individual functions.
+4. Improves Readability – Functions make the program easier to understand.
+5. Easy Maintenance – Changes can be made in one function without modifying the entire program.
+6. Saves Time – Reusable functions reduce development time.
+7.Makes Testing Easier – Each function can be tested independently
+
+Types of functions
+------------------
+1.Built in function
+2.User defined function
