@@ -4,7 +4,7 @@ PYTHON DATA TYPES
 Python data types can be classified into the following categories:
 
 1. NUMERIC DATA TYPES
----------------------
+----------------------
 1. int
 2. float
 3. complex
