@@ -1,5 +1,5 @@
 conditional Statements
-----------------------
+-----------------------
 1.Simple if
 2.if else
 3.elif ladder
