@@ -1,4 +1,4 @@
-'''
+
 budget=int(input('enter your buddget:'))
 if budget>10000:
     print('trip')
@@ -12,8 +12,7 @@ elif budget>500:
     print('street food and park visit')
 else:
     print('stay home')
-    '''
-'''
+
 hr=int(input('enter the time:'))
 
 if 5<=hr<=11:
@@ -26,7 +25,7 @@ elif 21<=hr<24:
     print('good night')
 else:
     print('midnight sleep well')
-    '''
+
 budget=int(input('enter your budget:'))
 if budget>10000:
     print('Cloud hosting')
