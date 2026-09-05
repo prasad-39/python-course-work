@@ -1,4 +1,4 @@
-'''
+
 for loop 
 -----------
 for var in seq:
@@ -8,7 +8,6 @@ s='python programming'
 for i in s:
     print(i)
 
-''
 l=[3,4,5,56,32,32]
 for i in l:
     print(i)
@@ -98,7 +97,7 @@ for i in range(5):
         print('invalid pin')
 else:
     print('try after 30 seconds')
-'''
+
 n=int(input('enter a number'))
 for i in range(2,n//2+1):
     if n%i==0:
